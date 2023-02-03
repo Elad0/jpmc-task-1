@@ -12,7 +12,6 @@ class Test(unittest.TestCase):
 
 
     def testgetDataPoint(self):
-      print(client.getDataPoint("ABC"))
       assert(client.getRatio(5,3)==5/3)
       assert(client.getRatio(10,0)==None)
 
