@@ -1,5 +1,5 @@
 /.pytest_cache/
-.dea/
+.idea/
 .project
 .pydevproject
 __pycache__/
